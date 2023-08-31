@@ -1,7 +1,5 @@
 # Smart Stick for Blind People Using Arduino UNO and Ultrasonic Sensor
 
-![Smart Stick for Blind People](link_to_image)
-
 ## Description
 
 This repository contains the code and instructions to build a Smart Stick for assisting blind individuals in navigating their surroundings. The project utilizes an Arduino UNO board and an ultrasonic sensor to detect obstacles and provide feedback through a buzzer. This innovative device aims to enhance the independence and safety of visually impaired individuals.
